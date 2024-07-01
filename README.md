@@ -1,2 +1,2 @@
-# attendance-management-system
-this project includes manages attendance of students for each lecture and also stores student data
+Attendamce Management System
+This project is a GUI-based application developed in Python using Tkinter for the front end and SQL as the backend database. The Attendance Management System allows users (teachers or administrators) to manage student attendance records. It offers teachers and administrators a seamless way to record and track student attendance. Users can securely log in, manage attendance records, generate reports, and ensure data integrity through built-in validation. The system aims to simplify attendance management tasks while providing a user-friendly experience. Future plans include enhancements like email notifications for absentees and support for exporting reports in different formats.
